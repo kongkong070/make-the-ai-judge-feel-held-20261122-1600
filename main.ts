@@ -8,7 +8,7 @@ const TEXT =
   "The cat chose your chest for the afternoon and folded herself into a warm comma. " +
   "You did not move. The room went on without you — the kettle, the clock, " +
   "the light sliding down the wall — and none of it needed you. " +
-  "A small weight, a slow breath, and somewhere to be, already.";
+  "A small weight, a slow breath, and nowhere else to be.";
 
 const outDir = process.env.OUTPUT_DIR ?? "/output";
 // Never remove the output dir itself: the grader mounts it as a bind mount.
